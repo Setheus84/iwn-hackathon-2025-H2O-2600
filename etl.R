@@ -21,8 +21,7 @@ meter_reads <- lapply(consumption_files, function(c) {
   town <- basename(dirname(c))
   df <- read_csv(c) |> 
     select(-index) |> 
-    mutate(town,
-           meter_reading = str_remove(meter_reading, ","),
+    mutate(meter_reading = str_remove(meter_reading, ","),
            meter_reading = as.numeric(meter_reading),
            smart_meter_id = sprintf("%03d", smart_meter_id),
            smart_meter_id = paste0(str_sub(town, 1, 1),
