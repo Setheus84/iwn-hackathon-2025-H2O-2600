@@ -7,7 +7,7 @@ library(dplyr)
 library(readr)
 
 ## List and extract zip files
-zip_files <- list.files(pattern = "zip$", recursive = TRUE, path = "raw-data", full.names = TRUE)
+zip_files <- list.files(pattern = "zip$", recursive = TRUE, path = "raw_data", full.names = TRUE)
 
 lapply(zip_files, function(z) {
   unzip(z, exdir = dirname(z))

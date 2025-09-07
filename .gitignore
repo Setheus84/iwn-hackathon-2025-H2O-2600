@@ -10,3 +10,6 @@
 /clean_data/appliances.csv
 /clean_data/houshold_meta_data.csv
 /clean_data/meter_reads.csv
+/rsconnect/
+/iwn-hackathon-2025.Rproj
+/shiny-application.R
