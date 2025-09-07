@@ -18,7 +18,7 @@ consumption_files <- list.files(pattern = "consumptions.csv",
                                 recursive = TRUE)
 
 meter_reads <- lapply(consumption_files, function(c) {
-  town <- dirname(c)
+  town <- basename(dirname(c))
   df <- read_csv(c) |> 
     select(-index) |> 
     mutate(town,
@@ -38,7 +38,7 @@ household_files <- list.files(pattern = "households.csv",
 
 ## Load and transform meta data
 households <- lapply(household_files, function(h) {
-  town <- dirname(h)
+  town <- basename(dirname(h))
   df <- read_csv(h) |>
     select(-index) |>
     mutate(smart_meter_id = sprintf("%03d", smart_meter_id),
