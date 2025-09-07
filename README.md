@@ -1,6 +1,6 @@
 # IWN Hackathon 2025: Digital Metering
 
-![](/www/iwn-hackathon-2025-banner.jpg)
+![](www/iwn-hackathon-2025-banner.jpg)
 
 The theme of the 2025 IWN Hackathon is:
 
@@ -8,9 +8,9 @@ The theme of the 2025 IWN Hackathon is:
 
 The main objective of this hackathon is to develop a practical solution that incentivizes consumer behaviour change to promote water conservation. By leveraging digital metering data, participants are encouraged to explore how turning conservation into a rewarding and engaging game can foster sustained changes in water usage habits. 
 
-Gamification has successfully driven behaviour change across various domains, from health and education to energy use. With this initiative, the water industry can harness its rich digital metering data to achieve similar outcomes, making conservation both impactful and enjoyable. 
-
 The raw data consists of anonymised data from the SmartH2O project. The files in this repository provided a cleaned version fo  this data, ready for analysis.
+
+Further detail is available in the [Challenge Document](www/iwn-hackathon-2025-challenge.pdf)
 
 ## Files
 - `clean_data`: Cleaned data files (zipped file only on GitHub due to size limitations)
