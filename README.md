@@ -1,16 +1,14 @@
-# IWN Hackathon 2025: Digital Metering
-
 ![](www/iwn-hackathon-2025-banner.jpg)
-
-The theme of the 2025 IWN Hackathon is:
 
 > Modify consumer behaviour towards saving water through gamification
 
 The main objective of this hackathon is to develop a practical solution that incentivizes consumer behaviour change to promote water conservation. By leveraging digital metering data, participants are encouraged to explore how turning conservation into a rewarding and engaging game can foster sustained changes in water usage habits. 
 
-The raw data consists of anonymised data from the SmartH2O project. The files in this repository provided a cleaned version fo  this data, ready for analysis.
+The raw data consists of anonymised data from the European [SmartH2O project](https://zenodo.org/records/556725). The files in this repository provided a cleaned version fo  this data, ready for analysis.
 
 Further detail is available in the [Challenge Document](www/iwn-hackathon-2025-challenge.pdf)
+
+You can explore the data in an [interactive application](https://prevos.shinyapps.io/iwn-hackathon-2025/).
 
 ## Files
 - `clean_data`: Cleaned data files (zipped file only on GitHub due to size limitations)
@@ -41,6 +39,8 @@ Due to GitHub size limitations, these files are provided in a ZIP archive: `clea
 - `town`: name of the town (Terre Di Pedemonte or Valencia).
 
 Note that this data shows regular anomalies, such as negative flows.
+
+Metadata is only available for a small subset of the participating digital meters.
 
 ### `household_meta_data.csv`
 - `smart_meter_id`: The smart meter's unique ID. Starts with either T (Terre Di Pedemonte) or V (Valencia), followed by a three-digit number.
