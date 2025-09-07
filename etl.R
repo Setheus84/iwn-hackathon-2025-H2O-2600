@@ -31,7 +31,6 @@ meter_reads <- lapply(consumption_files, function(c) {
     arrange(smart_meter_id, timestamp)
 }) |> bind_rows()
 
-
 ## Meta data
 ## List all files
 household_files <- list.files(pattern = "households.csv",
@@ -86,6 +85,14 @@ if (!dir.exists("clean_data")) {
   dir.create("clean_data")
 }
 
+# Write to disk and ZIP for GitHub
 write_csv(meter_reads, "clean_data/meter_reads.csv")
 write_csv(households_meta, "clean_data/houshold_meta_data.csv")
 write_csv(appliances, "clean_data/appliances.csv")
+
+clean_data_files <- list.files(path = "clean_data", pattern = "csv", full.names = TRUE)
+
+zip(files = clean_data_files, zipfile = "clean_data/clean_data.zip")
+
+
+
