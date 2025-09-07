@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/raw-data/Terre di Pedemonte/smarth2o_anonymized_consumptions.csv
+/raw-data/Terre di Pedemonte/smarth2o_anonymized_households.csv
+/raw-data/Valencia/smarth2o_anonymized_consumptions.csv
+/raw-data/Valencia/smarth2o_anonymized_households.csv
+/clean-data/*.csv
+/clean_data/appliances.csv
+/clean_data/houshold_meta_data.csv
+/clean_data/meter_reads.csv
