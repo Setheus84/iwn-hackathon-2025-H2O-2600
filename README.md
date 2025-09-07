@@ -1,6 +1,6 @@
 # IWN Hackathon 2025: Digital Metering
 
-![](www/iwn-hackathon-2025-banner.jpg)
+![](/www/iwn-hackathon-2025-banner.jpg)
 
 The theme of the 2025 IWN Hackathon is:
 
