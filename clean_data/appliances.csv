@@ -1,0 +1,1838 @@
+smart_meter_id,appliance,number
+T319,Toilet,2
+T319,Sink,3
+T319,Shower,2
+T319,Tub Shower,1
+T319,Dishwasher,1
+T319,Washing Machine,1
+T120,Toilet,2
+T120,Sink,3
+T120,Bathtub,0
+T120,Shower,1
+T120,Tub Shower,1
+T120,Dishwasher,1
+T120,Washing Machine,1
+T204,Toilet,3
+T204,Sink,6
+T204,Bathtub,1
+T204,Shower,1
+T204,Tub Shower,1
+T204,Dishwasher,2
+T204,Washing Machine,1
+T049,Toilet,3
+T049,Sink,8
+T049,Bathtub,0
+T049,Shower,3
+T049,Tub Shower,1
+T049,Dishwasher,1
+T049,Washing Machine,2
+T060,Toilet,2
+T060,Sink,4
+T060,Shower,2
+T060,Tub Shower,2
+T060,Dishwasher,1
+T060,Washing Machine,1
+T092,Toilet,3
+T092,Sink,4
+T092,Bathtub,0
+T092,Shower,1
+T092,Tub Shower,1
+T092,Dishwasher,1
+T092,Washing Machine,1
+T349,Toilet,1
+T349,Sink,2
+T349,Bathtub,0
+T349,Shower,2
+T349,Tub Shower,0
+T349,Dishwasher,1
+T349,Washing Machine,1
+T284,Toilet,3
+T284,Sink,4
+T284,Bathtub,0
+T284,Shower,2
+T284,Tub Shower,1
+T284,Dishwasher,1
+T284,Washing Machine,1
+T302,Toilet,2
+T302,Sink,5
+T302,Bathtub,1
+T302,Shower,1
+T302,Tub Shower,1
+T302,Dishwasher,1
+T302,Washing Machine,1
+T085,Toilet,3
+T085,Sink,4
+T085,Bathtub,1
+T085,Shower,2
+T085,Tub Shower,0
+T085,Dishwasher,1
+T085,Washing Machine,1
+T197,Toilet,3
+T197,Sink,4
+T197,Bathtub,1
+T197,Shower,2
+T197,Tub Shower,0
+T197,Dishwasher,1
+T197,Washing Machine,1
+T205,Toilet,2
+T205,Sink,20
+T205,Bathtub,0
+T205,Shower,1
+T205,Tub Shower,1
+T205,Dishwasher,1
+T205,Washing Machine,1
+T263,Toilet,1
+T263,Sink,2
+T263,Bathtub,0
+T263,Shower,0
+T263,Tub Shower,1
+T263,Dishwasher,1
+T263,Washing Machine,1
+T197,Toilet,2
+T197,Bathtub,0
+T197,Shower,1
+T197,Tub Shower,1
+T039,Toilet,1
+T039,Sink,2
+T039,Bathtub,1
+T039,Shower,0
+T039,Tub Shower,0
+T039,Dishwasher,1
+T039,Washing Machine,0
+T000,Toilet,2
+T000,Sink,3
+T000,Bathtub,0
+T000,Shower,1
+T000,Tub Shower,0
+T000,Dishwasher,1
+T000,Washing Machine,1
+T217,Toilet,2
+T217,Sink,5
+T217,Bathtub,0
+T217,Shower,2
+T217,Tub Shower,1
+T217,Dishwasher,1
+T217,Washing Machine,1
+T160,Toilet,1
+T160,Sink,4
+T160,Tub Shower,1
+T160,Dishwasher,1
+T160,Washing Machine,1
+V111,Toilet,2
+V111,Sink,3
+V111,Bathtub,0
+V111,Shower,0
+V111,Tub Shower,2
+V111,Dishwasher,1
+V111,Washing Machine,1
+V582,Toilet,2
+V582,Sink,5
+V582,Bathtub,0
+V582,Shower,0
+V582,Tub Shower,2
+V582,Dishwasher,1
+V582,Washing Machine,1
+V395,Toilet,1
+V395,Sink,1
+V395,Bathtub,0
+V395,Shower,1
+V395,Tub Shower,0
+V395,Dishwasher,1
+V395,Washing Machine,1
+V243,Toilet,1
+V243,Sink,1
+V243,Bathtub,1
+V243,Shower,1
+V243,Tub Shower,1
+V243,Dishwasher,1
+V243,Washing Machine,1
+V554,Toilet,2
+V554,Sink,2
+V554,Bathtub,1
+V554,Shower,2
+V554,Tub Shower,1
+V554,Dishwasher,1
+V554,Washing Machine,1
+V180,Toilet,1
+V180,Sink,2
+V180,Bathtub,0
+V180,Shower,0
+V180,Tub Shower,1
+V180,Dishwasher,0
+V180,Washing Machine,1
+V604,Toilet,2
+V604,Sink,2
+V604,Bathtub,0
+V604,Shower,0
+V604,Tub Shower,1
+V604,Dishwasher,0
+V604,Washing Machine,1
+V066,Toilet,1
+V066,Sink,2
+V066,Bathtub,0
+V066,Shower,0
+V066,Tub Shower,1
+V066,Dishwasher,0
+V066,Washing Machine,1
+V540,Toilet,2
+V540,Sink,2
+V540,Bathtub,0
+V540,Shower,2
+V540,Tub Shower,0
+V540,Dishwasher,1
+V540,Washing Machine,1
+V009,Toilet,2
+V009,Sink,4
+V009,Bathtub,1
+V009,Shower,1
+V009,Tub Shower,0
+V009,Dishwasher,1
+V009,Washing Machine,1
+V567,Dishwasher,1
+V567,Washing Machine,1
+V315,Toilet,3
+V315,Sink,3
+V315,Bathtub,0
+V315,Shower,1
+V315,Tub Shower,0
+V315,Dishwasher,3
+V315,Washing Machine,3
+V128,Toilet,2
+V128,Sink,2
+V128,Bathtub,1
+V128,Shower,1
+V128,Tub Shower,0
+V128,Dishwasher,1
+V128,Washing Machine,1
+V243,Sink,2
+V243,Bathtub,0
+V243,Shower,0
+V302,Toilet,2
+V302,Sink,2
+V302,Bathtub,0
+V302,Shower,0
+V302,Tub Shower,2
+V302,Dishwasher,1
+V302,Washing Machine,1
+V243,Toilet,3
+V243,Sink,3
+V243,Tub Shower,2
+V608,Toilet,2
+V608,Sink,2
+V608,Bathtub,0
+V608,Shower,1
+V608,Tub Shower,1
+V608,Dishwasher,1
+V608,Washing Machine,1
+V181,Toilet,1
+V181,Sink,1
+V181,Shower,1
+V181,Dishwasher,0
+V181,Washing Machine,1
+V442,Toilet,1
+V442,Sink,4
+V442,Bathtub,0
+V442,Shower,1
+V442,Tub Shower,0
+V442,Dishwasher,-1
+V442,Washing Machine,1
+V340,Toilet,1
+V340,Sink,1
+V340,Bathtub,0
+V340,Shower,1
+V340,Tub Shower,0
+V340,Dishwasher,1
+V340,Washing Machine,1
+V067,Toilet,1
+V067,Sink,2
+V067,Bathtub,0
+V067,Shower,1
+V067,Tub Shower,1
+V067,Dishwasher,0
+V067,Washing Machine,1
+V460,Toilet,1
+V460,Sink,1
+V460,Bathtub,1
+V460,Shower,1
+V460,Tub Shower,1
+V460,Dishwasher,1
+V460,Washing Machine,1
+V129,Toilet,1
+V129,Sink,1
+V129,Bathtub,0
+V129,Shower,1
+V129,Tub Shower,0
+V129,Dishwasher,1
+V129,Washing Machine,1
+V274,Toilet,1
+V274,Sink,1
+V274,Bathtub,0
+V274,Shower,1
+V274,Tub Shower,0
+V274,Dishwasher,0
+V274,Washing Machine,1
+V277,Toilet,3
+V277,Sink,6
+V277,Shower,1
+V277,Tub Shower,1
+V277,Dishwasher,1
+V277,Washing Machine,1
+V559,Toilet,1
+V559,Sink,1
+V559,Bathtub,0
+V559,Shower,1
+V559,Tub Shower,0
+V559,Dishwasher,1
+V559,Washing Machine,1
+V557,Toilet,2
+V557,Sink,3
+V557,Bathtub,0
+V557,Shower,0
+V557,Tub Shower,2
+V557,Dishwasher,1
+V557,Washing Machine,1
+V214,Toilet,2
+V214,Sink,3
+V214,Bathtub,0
+V214,Shower,1
+V214,Tub Shower,1
+V214,Dishwasher,1
+V214,Washing Machine,1
+V243,Dishwasher,0
+V051,Toilet,1
+V051,Sink,1
+V051,Bathtub,0
+V051,Shower,0
+V051,Tub Shower,1
+V051,Dishwasher,0
+V051,Washing Machine,1
+V252,Toilet,2
+V252,Sink,2
+V252,Bathtub,1
+V252,Shower,1
+V252,Tub Shower,0
+V252,Dishwasher,1
+V252,Washing Machine,1
+V023,Toilet,3
+V023,Sink,5
+V023,Bathtub,0
+V023,Shower,1
+V023,Tub Shower,2
+V023,Dishwasher,1
+V023,Washing Machine,1
+V243,Toilet,2
+V569,Toilet,2
+V569,Sink,2
+V569,Bathtub,0
+V569,Shower,0
+V569,Tub Shower,2
+V569,Dishwasher,0
+V569,Washing Machine,0
+V215,Toilet,2
+V215,Sink,4
+V215,Bathtub,0
+V215,Shower,1
+V215,Tub Shower,1
+V215,Dishwasher,1
+V215,Washing Machine,1
+V041,Toilet,3
+V041,Shower,2
+V041,Dishwasher,-1
+V041,Washing Machine,1
+V149,Toilet,2
+V149,Sink,3
+V149,Bathtub,0
+V149,Shower,1
+V149,Tub Shower,2
+V149,Dishwasher,1
+V149,Washing Machine,1
+V346,Toilet,2
+V346,Sink,3
+V346,Bathtub,0
+V346,Shower,1
+V346,Tub Shower,1
+V346,Dishwasher,1
+V346,Washing Machine,1
+V025,Toilet,3
+V025,Sink,3
+V025,Bathtub,1
+V025,Shower,2
+V025,Tub Shower,1
+V025,Dishwasher,1
+V025,Washing Machine,1
+V119,Toilet,1
+V119,Sink,2
+V119,Bathtub,0
+V119,Shower,1
+V119,Tub Shower,0
+V119,Dishwasher,1
+V119,Washing Machine,1
+V243,Tub Shower,0
+V439,Toilet,2
+V439,Sink,2
+V439,Bathtub,0
+V439,Shower,1
+V439,Tub Shower,1
+V439,Dishwasher,1
+V439,Washing Machine,1
+V352,Toilet,2
+V352,Sink,2
+V352,Bathtub,0
+V352,Shower,1
+V352,Tub Shower,1
+V352,Dishwasher,1
+V352,Washing Machine,1
+V375,Dishwasher,-1
+V375,Washing Machine,-1
+V243,Shower,2
+V481,Toilet,1
+V481,Sink,2
+V481,Bathtub,0
+V481,Shower,0
+V481,Tub Shower,1
+V481,Dishwasher,0
+V481,Washing Machine,1
+V071,Toilet,2
+V071,Sink,2
+V071,Bathtub,1
+V071,Shower,1
+V071,Tub Shower,0
+V071,Dishwasher,1
+V071,Washing Machine,1
+V106,Toilet,2
+V106,Sink,2
+V106,Bathtub,1
+V106,Shower,1
+V106,Tub Shower,0
+V106,Dishwasher,1
+V106,Washing Machine,1
+V501,Toilet,2
+V501,Sink,2
+V501,Bathtub,1
+V501,Shower,1
+V501,Tub Shower,0
+V501,Dishwasher,1
+V501,Washing Machine,1
+V402,Toilet,2
+V402,Sink,2
+V402,Bathtub,0
+V402,Shower,0
+V402,Tub Shower,2
+V402,Dishwasher,0
+V402,Washing Machine,1
+V206,Toilet,1
+V206,Sink,2
+V206,Tub Shower,1
+V206,Dishwasher,-1
+V206,Washing Machine,1
+V528,Toilet,2
+V528,Sink,3
+V528,Bathtub,0
+V528,Shower,2
+V528,Tub Shower,2
+V528,Dishwasher,1
+V528,Washing Machine,1
+V166,Toilet,1
+V166,Sink,3
+V166,Bathtub,0
+V166,Shower,1
+V166,Tub Shower,0
+V166,Dishwasher,1
+V166,Washing Machine,1
+V549,Toilet,2
+V549,Sink,2
+V549,Bathtub,0
+V549,Shower,1
+V549,Tub Shower,1
+V549,Dishwasher,1
+V549,Washing Machine,1
+V016,Toilet,2
+V016,Sink,2
+V016,Bathtub,0
+V016,Shower,0
+V016,Tub Shower,2
+V016,Dishwasher,1
+V016,Washing Machine,1
+V461,Toilet,2
+V461,Sink,3
+V461,Bathtub,0
+V461,Shower,2
+V461,Tub Shower,0
+V461,Dishwasher,0
+V461,Washing Machine,1
+V236,Toilet,2
+V236,Sink,2
+V236,Shower,1
+V236,Dishwasher,1
+V236,Washing Machine,1
+V123,Toilet,1
+V123,Sink,1
+V123,Bathtub,0
+V123,Shower,0
+V123,Tub Shower,1
+V123,Dishwasher,1
+V123,Washing Machine,1
+V382,Toilet,4
+V382,Sink,6
+V382,Bathtub,0
+V382,Shower,3
+V382,Tub Shower,0
+V382,Dishwasher,1
+V382,Washing Machine,1
+V305,Toilet,2
+V305,Sink,2
+V305,Bathtub,0
+V305,Shower,0
+V305,Tub Shower,2
+V305,Dishwasher,1
+V305,Washing Machine,1
+V444,Toilet,1
+V444,Sink,1
+V444,Bathtub,0
+V444,Shower,1
+V444,Tub Shower,0
+V444,Dishwasher,0
+V444,Washing Machine,1
+V011,Toilet,2
+V011,Sink,4
+V011,Bathtub,0
+V011,Shower,0
+V011,Tub Shower,2
+V011,Dishwasher,1
+V011,Washing Machine,1
+V094,Toilet,3
+V094,Sink,5
+V094,Bathtub,0
+V094,Shower,0
+V094,Tub Shower,2
+V094,Dishwasher,1
+V094,Washing Machine,1
+V498,Toilet,1
+V498,Sink,1
+V498,Bathtub,0
+V498,Shower,0
+V498,Tub Shower,1
+V498,Dishwasher,1
+V498,Washing Machine,1
+V593,Toilet,2
+V593,Sink,3
+V593,Bathtub,0
+V593,Shower,1
+V593,Tub Shower,0
+V593,Dishwasher,1
+V593,Washing Machine,1
+V441,Toilet,2
+V441,Sink,2
+V441,Bathtub,1
+V441,Shower,1
+V441,Dishwasher,0
+V441,Washing Machine,1
+V278,Toilet,2
+V278,Sink,3
+V278,Bathtub,0
+V278,Shower,2
+V278,Tub Shower,0
+V278,Dishwasher,0
+V278,Washing Machine,1
+V535,Toilet,2
+V535,Sink,2
+V535,Bathtub,1
+V535,Shower,1
+V535,Tub Shower,0
+V535,Dishwasher,0
+V535,Washing Machine,1
+V519,Toilet,2
+V519,Sink,2
+V519,Bathtub,0
+V519,Shower,1
+V519,Tub Shower,1
+V519,Dishwasher,1
+V519,Washing Machine,1
+V562,Toilet,2
+V562,Sink,5
+V562,Bathtub,0
+V562,Shower,1
+V562,Tub Shower,1
+V562,Dishwasher,1
+V562,Washing Machine,1
+V330,Toilet,2
+V330,Sink,2
+V330,Shower,2
+V330,Dishwasher,1
+V330,Washing Machine,1
+V223,Toilet,2
+V223,Sink,2
+V223,Bathtub,0
+V223,Shower,0
+V223,Tub Shower,2
+V223,Dishwasher,1
+V223,Washing Machine,1
+V322,Toilet,2
+V322,Sink,2
+V322,Bathtub,1
+V322,Shower,1
+V322,Tub Shower,0
+V322,Dishwasher,1
+V322,Washing Machine,1
+V182,Toilet,2
+V182,Sink,2
+V182,Bathtub,0
+V182,Shower,0
+V182,Tub Shower,2
+V182,Dishwasher,0
+V182,Washing Machine,1
+V132,Toilet,1
+V132,Sink,2
+V132,Bathtub,0
+V132,Shower,1
+V132,Tub Shower,0
+V132,Dishwasher,0
+V132,Washing Machine,1
+V197,Toilet,2
+V197,Sink,2
+V197,Bathtub,0
+V197,Shower,1
+V197,Tub Shower,1
+V197,Dishwasher,1
+V197,Washing Machine,1
+V310,Toilet,1
+V310,Sink,1
+V310,Tub Shower,1
+V310,Dishwasher,0
+V310,Washing Machine,1
+V185,Toilet,2
+V185,Sink,2
+V185,Bathtub,2
+V185,Shower,2
+V185,Tub Shower,2
+V185,Dishwasher,0
+V185,Washing Machine,1
+V502,Toilet,2
+V502,Sink,2
+V502,Bathtub,0
+V502,Shower,1
+V502,Tub Shower,0
+V502,Dishwasher,1
+V502,Washing Machine,1
+V376,Toilet,2
+V376,Sink,2
+V376,Bathtub,0
+V376,Shower,1
+V376,Tub Shower,1
+V376,Dishwasher,1
+V376,Washing Machine,1
+V529,Toilet,2
+V529,Sink,2
+V529,Bathtub,1
+V529,Shower,1
+V529,Tub Shower,1
+V529,Dishwasher,0
+V529,Washing Machine,1
+V217,Toilet,1
+V217,Sink,1
+V217,Bathtub,0
+V217,Shower,0
+V217,Tub Shower,1
+V217,Dishwasher,1
+V217,Washing Machine,1
+V270,Toilet,2
+V270,Sink,2
+V270,Bathtub,0
+V270,Shower,0
+V270,Tub Shower,2
+V270,Dishwasher,1
+V270,Washing Machine,1
+V096,Toilet,2
+V096,Sink,2
+V096,Bathtub,0
+V096,Shower,0
+V096,Tub Shower,2
+V096,Dishwasher,1
+V096,Washing Machine,1
+V265,Toilet,2
+V265,Sink,2
+V265,Bathtub,0
+V265,Shower,0
+V265,Tub Shower,2
+V265,Dishwasher,1
+V265,Washing Machine,1
+V463,Toilet,3
+V463,Sink,3
+V463,Bathtub,0
+V463,Shower,2
+V463,Tub Shower,1
+V463,Dishwasher,1
+V463,Washing Machine,1
+V114,Toilet,2
+V114,Sink,3
+V114,Bathtub,0
+V114,Shower,1
+V114,Tub Shower,0
+V114,Dishwasher,1
+V114,Washing Machine,1
+V426,Toilet,2
+V426,Sink,3
+V426,Bathtub,0
+V426,Shower,2
+V426,Tub Shower,2
+V426,Dishwasher,1
+V426,Washing Machine,1
+V300,Toilet,2
+V300,Sink,4
+V300,Bathtub,0
+V300,Shower,1
+V300,Tub Shower,1
+V300,Dishwasher,1
+V300,Washing Machine,1
+V350,Toilet,1
+V350,Sink,1
+V350,Bathtub,0
+V350,Shower,0
+V350,Tub Shower,1
+V350,Dishwasher,0
+V350,Washing Machine,1
+V064,Toilet,2
+V064,Sink,2
+V064,Bathtub,0
+V064,Shower,0
+V064,Tub Shower,2
+V064,Dishwasher,1
+V064,Washing Machine,1
+V105,Toilet,2
+V105,Sink,2
+V105,Bathtub,1
+V105,Shower,1
+V105,Tub Shower,0
+V105,Dishwasher,1
+V105,Washing Machine,1
+V313,Toilet,1
+V313,Sink,1
+V313,Bathtub,0
+V313,Shower,0
+V313,Tub Shower,1
+V313,Dishwasher,0
+V313,Washing Machine,1
+V487,Toilet,1
+V487,Sink,1
+V487,Bathtub,0
+V487,Shower,0
+V487,Tub Shower,1
+V487,Dishwasher,0
+V487,Washing Machine,1
+V364,Toilet,2
+V364,Sink,2
+V364,Bathtub,0
+V364,Shower,2
+V364,Tub Shower,0
+V364,Dishwasher,1
+V364,Washing Machine,1
+V243,Sink,0
+V006,Toilet,2
+V006,Sink,2
+V006,Bathtub,0
+V006,Shower,0
+V006,Tub Shower,1
+V006,Dishwasher,1
+V006,Washing Machine,1
+V210,Toilet,2
+V210,Sink,3
+V210,Bathtub,0
+V210,Shower,1
+V210,Tub Shower,1
+V210,Dishwasher,1
+V210,Washing Machine,1
+V581,Toilet,2
+V581,Sink,2
+V581,Bathtub,0
+V581,Shower,2
+V581,Tub Shower,0
+V581,Dishwasher,0
+V581,Washing Machine,1
+V243,Sink,4
+V347,Toilet,4
+V347,Sink,4
+V347,Bathtub,0
+V347,Shower,1
+V347,Tub Shower,2
+V347,Dishwasher,1
+V347,Washing Machine,1
+V353,Toilet,1
+V353,Sink,1
+V353,Bathtub,0
+V353,Shower,1
+V353,Tub Shower,0
+V353,Dishwasher,1
+V353,Washing Machine,1
+V241,Toilet,2
+V241,Sink,2
+V241,Bathtub,1
+V241,Shower,1
+V241,Tub Shower,0
+V241,Dishwasher,0
+V241,Washing Machine,1
+V357,Toilet,2
+V357,Sink,2
+V357,Bathtub,0
+V357,Shower,2
+V357,Tub Shower,0
+V357,Dishwasher,1
+V357,Washing Machine,1
+V361,Toilet,2
+V361,Sink,2
+V361,Bathtub,0
+V361,Shower,1
+V361,Tub Shower,0
+V361,Dishwasher,1
+V361,Washing Machine,1
+V243,Washing Machine,0
+V127,Toilet,2
+V127,Sink,3
+V127,Bathtub,0
+V127,Shower,0
+V127,Tub Shower,2
+V127,Dishwasher,1
+V127,Washing Machine,1
+V079,Toilet,2
+V079,Sink,2
+V079,Bathtub,0
+V079,Shower,2
+V079,Tub Shower,0
+V079,Dishwasher,0
+V079,Washing Machine,1
+V222,Toilet,2
+V222,Sink,2
+V222,Bathtub,0
+V222,Shower,1
+V222,Tub Shower,1
+V222,Dishwasher,1
+V222,Washing Machine,1
+V099,Toilet,2
+V099,Sink,2
+V099,Shower,2
+V099,Dishwasher,1
+V099,Washing Machine,1
+V524,Toilet,2
+V524,Sink,3
+V524,Bathtub,2
+V524,Shower,2
+V524,Tub Shower,2
+V524,Dishwasher,0
+V524,Washing Machine,1
+V454,Toilet,1
+V454,Sink,1
+V454,Bathtub,0
+V454,Shower,1
+V454,Tub Shower,0
+V454,Dishwasher,0
+V454,Washing Machine,1
+V229,Toilet,2
+V229,Sink,2
+V229,Bathtub,0
+V229,Shower,1
+V229,Tub Shower,0
+V229,Dishwasher,1
+V229,Washing Machine,1
+V285,Toilet,2
+V285,Sink,3
+V285,Bathtub,0
+V285,Shower,1
+V285,Tub Shower,1
+V285,Dishwasher,1
+V285,Washing Machine,1
+V261,Toilet,2
+V261,Sink,2
+V261,Bathtub,0
+V261,Shower,1
+V261,Tub Shower,0
+V261,Dishwasher,1
+V261,Washing Machine,1
+V345,Toilet,1
+V345,Sink,1
+V345,Bathtub,0
+V345,Shower,1
+V345,Tub Shower,1
+V345,Dishwasher,0
+V345,Washing Machine,1
+V273,Toilet,2
+V273,Sink,2
+V273,Bathtub,0
+V273,Shower,1
+V273,Tub Shower,1
+V273,Dishwasher,1
+V273,Washing Machine,1
+V388,Toilet,1
+V388,Sink,2
+V388,Bathtub,0
+V388,Shower,1
+V388,Tub Shower,0
+V388,Dishwasher,0
+V388,Washing Machine,1
+V177,Dishwasher,-1
+V177,Washing Machine,-1
+V007,Toilet,0
+V007,Sink,0
+V007,Bathtub,0
+V007,Shower,0
+V007,Tub Shower,0
+V007,Dishwasher,0
+V007,Washing Machine,1
+V287,Toilet,1
+V287,Sink,2
+V287,Bathtub,0
+V287,Shower,0
+V287,Tub Shower,1
+V287,Dishwasher,1
+V287,Washing Machine,1
+V076,Toilet,2
+V076,Sink,3
+V076,Bathtub,0
+V076,Shower,1
+V076,Tub Shower,1
+V076,Dishwasher,0
+V076,Washing Machine,1
+V445,Toilet,2
+V445,Sink,1
+V445,Bathtub,0
+V445,Shower,1
+V445,Tub Shower,0
+V445,Dishwasher,0
+V445,Washing Machine,1
+V401,Toilet,2
+V401,Sink,4
+V401,Bathtub,0
+V401,Shower,1
+V401,Tub Shower,1
+V401,Dishwasher,1
+V401,Washing Machine,1
+V103,Toilet,1
+V103,Sink,1
+V103,Bathtub,0
+V103,Shower,0
+V103,Tub Shower,1
+V103,Dishwasher,0
+V103,Washing Machine,1
+V050,Toilet,2
+V050,Sink,2
+V050,Bathtub,0
+V050,Shower,1
+V050,Tub Shower,1
+V050,Dishwasher,1
+V050,Washing Machine,1
+V303,Toilet,2
+V303,Sink,4
+V303,Bathtub,0
+V303,Shower,0
+V303,Tub Shower,2
+V303,Dishwasher,1
+V303,Washing Machine,1
+V512,Toilet,2
+V512,Sink,2
+V512,Bathtub,0
+V512,Shower,2
+V512,Tub Shower,0
+V512,Dishwasher,0
+V512,Washing Machine,1
+V600,Toilet,1
+V600,Sink,1
+V600,Bathtub,0
+V600,Shower,1
+V600,Tub Shower,0
+V600,Dishwasher,1
+V600,Washing Machine,1
+V118,Toilet,2
+V118,Sink,2
+V118,Bathtub,3
+V118,Shower,2
+V118,Tub Shower,1
+V118,Dishwasher,1
+V118,Washing Machine,1
+V417,Toilet,1
+V417,Sink,1
+V417,Bathtub,0
+V417,Shower,0
+V417,Tub Shower,1
+V417,Dishwasher,1
+V417,Washing Machine,1
+V086,Toilet,2
+V086,Sink,3
+V086,Bathtub,0
+V086,Shower,1
+V086,Tub Shower,1
+V086,Dishwasher,1
+V086,Washing Machine,1
+V521,Toilet,2
+V521,Sink,2
+V521,Bathtub,0
+V521,Shower,1
+V521,Tub Shower,2
+V521,Dishwasher,0
+V521,Washing Machine,1
+V543,Toilet,2
+V543,Sink,2
+V543,Shower,1
+V543,Tub Shower,1
+V543,Dishwasher,1
+V543,Washing Machine,1
+V228,Toilet,1
+V228,Sink,1
+V228,Bathtub,0
+V228,Shower,1
+V228,Tub Shower,0
+V228,Dishwasher,0
+V228,Washing Machine,1
+V212,Toilet,2
+V212,Sink,2
+V212,Bathtub,1
+V212,Shower,1
+V212,Tub Shower,1
+V212,Dishwasher,-1
+V212,Washing Machine,1
+V369,Toilet,2
+V369,Sink,2
+V369,Bathtub,0
+V369,Shower,0
+V369,Tub Shower,2
+V369,Dishwasher,1
+V369,Washing Machine,1
+V378,Toilet,2
+V378,Sink,2
+V378,Bathtub,0
+V378,Shower,2
+V378,Tub Shower,1
+V378,Dishwasher,0
+V378,Washing Machine,1
+V471,Toilet,4
+V471,Sink,4
+V471,Bathtub,0
+V471,Shower,3
+V471,Tub Shower,0
+V471,Dishwasher,1
+V471,Washing Machine,1
+V453,Toilet,2
+V453,Sink,2
+V453,Bathtub,0
+V453,Shower,1
+V453,Tub Shower,1
+V453,Dishwasher,1
+V453,Washing Machine,1
+V028,Toilet,2
+V028,Sink,3
+V028,Bathtub,0
+V028,Shower,1
+V028,Tub Shower,1
+V028,Dishwasher,1
+V028,Washing Machine,1
+V188,Toilet,2
+V188,Sink,2
+V188,Bathtub,0
+V188,Shower,1
+V188,Tub Shower,1
+V188,Dishwasher,1
+V188,Washing Machine,1
+V556,Toilet,1
+V556,Sink,1
+V556,Bathtub,0
+V556,Shower,1
+V556,Tub Shower,0
+V556,Dishwasher,1
+V556,Washing Machine,1
+V158,Toilet,2
+V158,Sink,2
+V158,Bathtub,0
+V158,Shower,1
+V158,Tub Shower,0
+V158,Dishwasher,0
+V158,Washing Machine,1
+V522,Toilet,2
+V522,Sink,2
+V522,Bathtub,0
+V522,Shower,1
+V522,Tub Shower,1
+V522,Dishwasher,1
+V522,Washing Machine,1
+V213,Toilet,2
+V213,Sink,2
+V213,Bathtub,0
+V213,Shower,2
+V213,Tub Shower,2
+V213,Dishwasher,-1
+V213,Washing Machine,-1
+V565,Toilet,3
+V565,Sink,3
+V565,Bathtub,1
+V565,Shower,0
+V565,Tub Shower,2
+V565,Dishwasher,1
+V565,Washing Machine,1
+V590,Toilet,1
+V590,Sink,1
+V590,Bathtub,0
+V590,Shower,1
+V590,Tub Shower,0
+V590,Dishwasher,0
+V590,Washing Machine,1
+V046,Toilet,2
+V046,Sink,1
+V046,Bathtub,0
+V046,Shower,1
+V046,Tub Shower,1
+V046,Dishwasher,1
+V046,Washing Machine,1
+V386,Toilet,2
+V386,Sink,2
+V386,Bathtub,0
+V386,Shower,1
+V386,Tub Shower,0
+V386,Dishwasher,0
+V386,Washing Machine,1
+V262,Toilet,2
+V262,Sink,2
+V262,Bathtub,0
+V262,Shower,0
+V262,Tub Shower,2
+V262,Dishwasher,1
+V262,Washing Machine,1
+V433,Toilet,2
+V433,Sink,2
+V433,Bathtub,0
+V433,Shower,1
+V433,Tub Shower,1
+V433,Dishwasher,1
+V433,Washing Machine,1
+V148,Toilet,3
+V148,Sink,3
+V148,Bathtub,1
+V148,Shower,0
+V148,Tub Shower,3
+V148,Dishwasher,0
+V148,Washing Machine,1
+V108,Toilet,2
+V108,Sink,4
+V108,Bathtub,0
+V108,Shower,1
+V108,Tub Shower,1
+V108,Dishwasher,1
+V108,Washing Machine,1
+V597,Toilet,2
+V597,Sink,2
+V597,Bathtub,0
+V597,Shower,1
+V597,Tub Shower,1
+V597,Dishwasher,1
+V597,Washing Machine,1
+V452,Toilet,1
+V452,Sink,1
+V452,Shower,1
+V452,Dishwasher,0
+V452,Washing Machine,1
+V583,Toilet,2
+V583,Sink,2
+V583,Bathtub,1
+V583,Shower,1
+V583,Tub Shower,0
+V583,Dishwasher,1
+V583,Washing Machine,1
+V073,Toilet,2
+V073,Sink,2
+V073,Bathtub,0
+V073,Shower,0
+V073,Tub Shower,1
+V073,Dishwasher,0
+V073,Washing Machine,1
+V339,Toilet,1
+V339,Sink,1
+V339,Bathtub,0
+V339,Shower,1
+V339,Tub Shower,0
+V339,Dishwasher,0
+V339,Washing Machine,1
+V196,Toilet,2
+V196,Sink,2
+V196,Shower,0
+V196,Tub Shower,2
+V196,Dishwasher,-1
+V196,Washing Machine,1
+V201,Toilet,2
+V201,Sink,4
+V201,Bathtub,0
+V201,Shower,0
+V201,Tub Shower,2
+V201,Dishwasher,1
+V201,Washing Machine,1
+V087,Toilet,2
+V087,Sink,1
+V087,Bathtub,0
+V087,Shower,1
+V087,Tub Shower,1
+V087,Dishwasher,1
+V087,Washing Machine,1
+V178,Toilet,2
+V178,Sink,3
+V178,Bathtub,0
+V178,Shower,1
+V178,Tub Shower,0
+V178,Dishwasher,0
+V178,Washing Machine,1
+V110,Toilet,2
+V110,Sink,2
+V110,Bathtub,0
+V110,Shower,1
+V110,Tub Shower,0
+V110,Dishwasher,1
+V110,Washing Machine,1
+V032,Toilet,1
+V032,Sink,1
+V032,Bathtub,0
+V032,Shower,1
+V032,Tub Shower,0
+V032,Dishwasher,1
+V032,Washing Machine,1
+V304,Toilet,2
+V304,Sink,2
+V304,Bathtub,0
+V304,Shower,0
+V304,Tub Shower,2
+V304,Dishwasher,1
+V304,Washing Machine,1
+V121,Toilet,1
+V121,Sink,2
+V121,Bathtub,0
+V121,Shower,1
+V121,Tub Shower,0
+V121,Dishwasher,1
+V121,Washing Machine,1
+V268,Toilet,2
+V268,Sink,2
+V268,Bathtub,0
+V268,Shower,1
+V268,Tub Shower,1
+V268,Dishwasher,0
+V268,Washing Machine,1
+V449,Toilet,2
+V449,Sink,3
+V449,Bathtub,0
+V449,Shower,1
+V449,Tub Shower,1
+V449,Dishwasher,0
+V449,Washing Machine,1
+V387,Toilet,2
+V387,Sink,2
+V387,Bathtub,0
+V387,Shower,1
+V387,Tub Shower,1
+V387,Dishwasher,1
+V387,Washing Machine,1
+V391,Toilet,2
+V391,Sink,3
+V391,Bathtub,0
+V391,Shower,2
+V391,Tub Shower,0
+V391,Dishwasher,1
+V391,Washing Machine,1
+V398,Toilet,2
+V398,Sink,2
+V398,Bathtub,0
+V398,Shower,0
+V398,Tub Shower,2
+V398,Dishwasher,0
+V398,Washing Machine,1
+V405,Toilet,1
+V405,Sink,3
+V405,Bathtub,0
+V405,Shower,1
+V405,Tub Shower,0
+V405,Dishwasher,0
+V405,Washing Machine,1
+V298,Toilet,1
+V298,Sink,1
+V298,Bathtub,0
+V298,Shower,1
+V298,Tub Shower,0
+V298,Dishwasher,0
+V298,Washing Machine,0
+V574,Toilet,1
+V574,Sink,1
+V574,Shower,0
+V574,Tub Shower,2
+V574,Dishwasher,1
+V574,Washing Machine,1
+V040,Toilet,1
+V040,Sink,1
+V040,Bathtub,0
+V040,Shower,1
+V040,Tub Shower,0
+V040,Dishwasher,1
+V040,Washing Machine,1
+V509,Toilet,2
+V509,Sink,3
+V509,Bathtub,0
+V509,Shower,1
+V509,Tub Shower,0
+V509,Dishwasher,1
+V509,Washing Machine,1
+V030,Toilet,1
+V030,Sink,1
+V030,Bathtub,0
+V030,Shower,1
+V030,Tub Shower,0
+V030,Dishwasher,1
+V030,Washing Machine,1
+V476,Toilet,2
+V476,Sink,2
+V476,Bathtub,1
+V476,Shower,1
+V476,Tub Shower,0
+V476,Dishwasher,1
+V476,Washing Machine,1
+V116,Toilet,2
+V116,Sink,3
+V116,Bathtub,0
+V116,Shower,2
+V116,Tub Shower,1
+V116,Dishwasher,1
+V116,Washing Machine,1
+V208,Toilet,2
+V208,Sink,1
+V208,Bathtub,0
+V208,Shower,1
+V208,Tub Shower,1
+V208,Dishwasher,0
+V208,Washing Machine,1
+V403,Toilet,1
+V403,Sink,1
+V403,Bathtub,0
+V403,Shower,0
+V403,Tub Shower,1
+V403,Dishwasher,1
+V403,Washing Machine,1
+V250,Toilet,2
+V250,Sink,4
+V250,Bathtub,0
+V250,Shower,1
+V250,Tub Shower,1
+V250,Dishwasher,0
+V250,Washing Machine,1
+V037,Toilet,1
+V037,Sink,1
+V037,Bathtub,0
+V037,Shower,1
+V037,Tub Shower,1
+V037,Dishwasher,0
+V037,Washing Machine,1
+V588,Toilet,1
+V588,Sink,2
+V588,Bathtub,0
+V588,Shower,1
+V588,Tub Shower,0
+V588,Dishwasher,0
+V588,Washing Machine,1
+V473,Toilet,1
+V473,Sink,1
+V473,Shower,0
+V473,Tub Shower,1
+V473,Dishwasher,1
+V473,Washing Machine,1
+V154,Toilet,2
+V154,Sink,2
+V154,Bathtub,1
+V154,Shower,1
+V154,Tub Shower,0
+V154,Dishwasher,1
+V154,Washing Machine,1
+V598,Toilet,2
+V598,Sink,2
+V598,Bathtub,0
+V598,Shower,0
+V598,Tub Shower,2
+V598,Dishwasher,0
+V598,Washing Machine,1
+V327,Toilet,2
+V327,Sink,2
+V327,Bathtub,0
+V327,Shower,2
+V327,Tub Shower,0
+V327,Dishwasher,1
+V327,Washing Machine,1
+V576,Toilet,2
+V576,Sink,2
+V576,Bathtub,0
+V576,Shower,0
+V576,Tub Shower,2
+V576,Dishwasher,1
+V576,Washing Machine,1
+V054,Toilet,1
+V054,Sink,2
+V054,Bathtub,0
+V054,Shower,1
+V054,Tub Shower,0
+V054,Dishwasher,0
+V054,Washing Machine,1
+V233,Toilet,2
+V233,Sink,2
+V233,Bathtub,1
+V233,Shower,1
+V233,Tub Shower,0
+V233,Dishwasher,1
+V233,Washing Machine,1
+V115,Toilet,4
+V115,Sink,4
+V115,Bathtub,0
+V115,Shower,4
+V115,Tub Shower,0
+V115,Dishwasher,0
+V115,Washing Machine,1
+V429,Toilet,2
+V429,Sink,4
+V429,Bathtub,0
+V429,Shower,1
+V429,Tub Shower,1
+V429,Dishwasher,1
+V429,Washing Machine,1
+V107,Toilet,1
+V107,Sink,1
+V107,Bathtub,0
+V107,Shower,1
+V107,Tub Shower,0
+V107,Dishwasher,1
+V107,Washing Machine,1
+V097,Toilet,2
+V097,Sink,3
+V097,Bathtub,0
+V097,Shower,0
+V097,Tub Shower,2
+V097,Dishwasher,1
+V097,Washing Machine,1
+V377,Toilet,1
+V377,Sink,1
+V377,Shower,1
+V377,Dishwasher,0
+V377,Washing Machine,1
+V135,Toilet,2
+V135,Sink,2
+V135,Bathtub,0
+V135,Shower,2
+V135,Tub Shower,0
+V135,Dishwasher,1
+V135,Washing Machine,1
+V142,Toilet,2
+V142,Sink,2
+V142,Bathtub,0
+V142,Shower,2
+V142,Tub Shower,0
+V142,Dishwasher,1
+V142,Washing Machine,1
+V595,Toilet,2
+V595,Sink,2
+V595,Bathtub,0
+V595,Shower,1
+V595,Tub Shower,0
+V595,Dishwasher,0
+V595,Washing Machine,1
+V555,Toilet,2
+V555,Sink,2
+V555,Bathtub,1
+V555,Shower,1
+V555,Dishwasher,1
+V555,Washing Machine,1
+V523,Toilet,2
+V523,Sink,4
+V523,Bathtub,0
+V523,Shower,0
+V523,Tub Shower,2
+V523,Dishwasher,0
+V523,Washing Machine,1
+V062,Toilet,1
+V062,Sink,1
+V062,Bathtub,0
+V062,Shower,0
+V062,Tub Shower,1
+V062,Dishwasher,-1
+V062,Washing Machine,-1
+V564,Toilet,2
+V564,Sink,3
+V564,Shower,1
+V564,Dishwasher,1
+V564,Washing Machine,1
+V256,Toilet,2
+V256,Sink,2
+V256,Bathtub,0
+V256,Shower,1
+V256,Tub Shower,1
+V256,Dishwasher,1
+V256,Washing Machine,1
+V026,Toilet,2
+V026,Sink,3
+V026,Bathtub,0
+V026,Shower,0
+V026,Tub Shower,1
+V026,Dishwasher,0
+V026,Washing Machine,1
+V045,Toilet,2
+V045,Sink,2
+V045,Bathtub,0
+V045,Shower,1
+V045,Tub Shower,1
+V045,Dishwasher,1
+V045,Washing Machine,1
+V314,Toilet,1
+V314,Sink,1
+V314,Bathtub,0
+V314,Shower,1
+V314,Tub Shower,0
+V314,Dishwasher,0
+V314,Washing Machine,1
+V074,Dishwasher,0
+V074,Washing Machine,1
+V525,Toilet,2
+V525,Sink,4
+V525,Bathtub,1
+V525,Shower,1
+V525,Tub Shower,0
+V525,Dishwasher,1
+V525,Washing Machine,1
+V335,Toilet,1
+V335,Sink,1
+V335,Bathtub,0
+V335,Shower,0
+V335,Tub Shower,1
+V335,Dishwasher,1
+V335,Washing Machine,1
+V456,Toilet,3
+V456,Sink,4
+V456,Bathtub,0
+V456,Shower,1
+V456,Tub Shower,1
+V456,Dishwasher,1
+V456,Washing Machine,1
+V081,Toilet,2
+V081,Sink,2
+V081,Bathtub,0
+V081,Shower,0
+V081,Tub Shower,2
+V081,Dishwasher,1
+V081,Washing Machine,1
+V368,Toilet,2
+V368,Sink,3
+V368,Bathtub,0
+V368,Shower,1
+V368,Tub Shower,1
+V368,Dishwasher,1
+V368,Washing Machine,1
+V082,Toilet,1
+V082,Sink,2
+V082,Bathtub,0
+V082,Shower,1
+V082,Tub Shower,0
+V082,Dishwasher,1
+V082,Washing Machine,1
+V172,Toilet,1
+V172,Sink,1
+V172,Bathtub,0
+V172,Shower,0
+V172,Tub Shower,1
+V172,Dishwasher,0
+V172,Washing Machine,1
+V290,Dishwasher,-1
+V290,Washing Machine,-1
+V282,Toilet,2
+V282,Sink,2
+V282,Bathtub,0
+V282,Shower,0
+V282,Tub Shower,1
+V282,Dishwasher,1
+V282,Washing Machine,1
+V411,Toilet,2
+V411,Sink,4
+V411,Bathtub,0
+V411,Shower,0
+V411,Tub Shower,2
+V411,Dishwasher,1
+V411,Washing Machine,1
+V243,Shower,3
+V146,Toilet,1
+V146,Sink,1
+V146,Bathtub,0
+V146,Shower,0
+V146,Tub Shower,1
+V146,Dishwasher,0
+V146,Washing Machine,1
+V165,Toilet,2
+V165,Sink,2
+V165,Bathtub,0
+V165,Shower,1
+V165,Tub Shower,1
+V165,Dishwasher,0
+V165,Washing Machine,1
+V505,Toilet,1
+V505,Sink,1
+V505,Bathtub,0
+V505,Shower,1
+V505,Tub Shower,0
+V505,Dishwasher,1
+V505,Washing Machine,1
+V043,Toilet,2
+V043,Sink,2
+V043,Bathtub,0
+V043,Shower,0
+V043,Tub Shower,2
+V043,Dishwasher,0
+V043,Washing Machine,1
+V457,Toilet,1
+V457,Sink,1
+V457,Bathtub,0
+V457,Shower,0
+V457,Tub Shower,1
+V457,Dishwasher,1
+V457,Washing Machine,1
+V506,Toilet,1
+V506,Sink,1
+V506,Bathtub,0
+V506,Shower,1
+V506,Tub Shower,0
+V506,Dishwasher,1
+V506,Washing Machine,1
+V192,Toilet,2
+V192,Sink,3
+V192,Bathtub,0
+V192,Shower,1
+V192,Tub Shower,2
+V192,Dishwasher,1
+V192,Washing Machine,1
+V198,Toilet,1
+V198,Sink,2
+V198,Bathtub,1
+V198,Shower,1
+V198,Tub Shower,0
+V198,Dishwasher,0
+V198,Washing Machine,1
+V027,Toilet,2
+V027,Sink,2
+V027,Bathtub,0
+V027,Shower,1
+V027,Tub Shower,1
+V027,Dishwasher,1
+V027,Washing Machine,1
+V568,Toilet,2
+V568,Sink,2
+V568,Bathtub,0
+V568,Shower,0
+V568,Tub Shower,2
+V568,Dishwasher,0
+V568,Washing Machine,1
+V504,Toilet,1
+V504,Sink,1
+V504,Bathtub,0
+V504,Shower,1
+V504,Tub Shower,0
+V504,Dishwasher,0
+V504,Washing Machine,1
+V354,Toilet,2
+V354,Sink,2
+V354,Bathtub,0
+V354,Shower,1
+V354,Tub Shower,1
+V354,Dishwasher,1
+V354,Washing Machine,1
+V508,Toilet,1
+V508,Sink,1
+V508,Bathtub,0
+V508,Shower,1
+V508,Tub Shower,0
+V508,Dishwasher,1
+V508,Washing Machine,1
+V091,Toilet,2
+V091,Sink,3
+V091,Bathtub,0
+V091,Shower,1
+V091,Tub Shower,1
+V091,Dishwasher,0
+V091,Washing Machine,1
+V317,Toilet,2
+V317,Sink,2
+V317,Bathtub,0
+V317,Shower,0
+V317,Tub Shower,2
+V317,Dishwasher,1
+V317,Washing Machine,1
+V080,Toilet,2
+V080,Sink,3
+V080,Bathtub,1
+V080,Shower,1
+V080,Tub Shower,0
+V080,Dishwasher,0
+V080,Washing Machine,1
+V005,Toilet,2
+V005,Sink,2
+V005,Bathtub,0
+V005,Shower,2
+V005,Tub Shower,0
+V005,Dishwasher,0
+V005,Washing Machine,1
+V418,Toilet,1
+V418,Sink,1
+V418,Bathtub,0
+V418,Shower,1
+V418,Tub Shower,0
+V418,Dishwasher,0
+V418,Washing Machine,1
+V047,Toilet,2
+V047,Sink,4
+V047,Bathtub,2
+V047,Shower,2
+V047,Tub Shower,2
+V047,Dishwasher,1
+V047,Washing Machine,1
+V078,Toilet,2
+V078,Sink,2
+V078,Shower,2
+V078,Dishwasher,1
+V078,Washing Machine,1
+V349,Toilet,2
+V349,Sink,3
+V349,Bathtub,0
+V349,Shower,1
+V349,Tub Shower,1
+V349,Dishwasher,1
+V349,Washing Machine,1
+V479,Toilet,2
+V479,Sink,3
+V479,Bathtub,0
+V479,Shower,2
+V479,Tub Shower,0
+V479,Dishwasher,1
+V479,Washing Machine,1
+V293,Toilet,2
+V293,Sink,3
+V293,Bathtub,0
+V293,Shower,2
+V293,Tub Shower,1
+V293,Dishwasher,1
+V293,Washing Machine,1
+V393,Toilet,2
+V393,Sink,2
+V393,Bathtub,0
+V393,Shower,0
+V393,Tub Shower,2
+V393,Dishwasher,1
+V393,Washing Machine,1
+V061,Toilet,1
+V061,Sink,1
+V061,Bathtub,0
+V061,Shower,0
+V061,Tub Shower,1
+V061,Dishwasher,-1
+V061,Washing Machine,1
+V547,Toilet,2
+V547,Sink,3
+V547,Bathtub,0
+V547,Shower,2
+V547,Tub Shower,1
+V547,Dishwasher,1
+V547,Washing Machine,1
+V280,Toilet,2
+V280,Sink,3
+V280,Bathtub,0
+V280,Shower,0
+V280,Tub Shower,2
+V280,Dishwasher,1
+V280,Washing Machine,1
+V120,Toilet,3
+V120,Sink,3
+V120,Bathtub,0
+V120,Shower,1
+V120,Tub Shower,1
+V120,Dishwasher,1
+V120,Washing Machine,1
+V474,Toilet,1
+V474,Sink,1
+V474,Bathtub,0
+V474,Shower,1
+V474,Tub Shower,0
+V474,Dishwasher,0
+V474,Washing Machine,1
+V049,Dishwasher,-1
+V049,Washing Machine,-1
+V355,Toilet,2
+V355,Sink,3
+V355,Bathtub,0
+V355,Shower,1
+V355,Tub Shower,1
+V355,Dishwasher,1
+V355,Washing Machine,1
+V000,Toilet,1
+V000,Sink,1
+V000,Bathtub,0
+V000,Shower,1
+V000,Tub Shower,0
+V000,Dishwasher,1
+V000,Washing Machine,1
+V579,Toilet,1
+V579,Sink,2
+V579,Bathtub,0
+V579,Shower,0
+V579,Tub Shower,1
+V579,Dishwasher,1
+V579,Washing Machine,1
+V264,Toilet,1
+V264,Sink,1
+V264,Bathtub,0
+V264,Shower,1
+V264,Tub Shower,0
+V264,Dishwasher,1
+V264,Washing Machine,1
+V558,Toilet,2
+V558,Sink,3
+V558,Bathtub,0
+V558,Shower,1
+V558,Tub Shower,1
+V558,Dishwasher,1
+V558,Washing Machine,1
+V288,Toilet,2
+V288,Sink,2
+V288,Bathtub,0
+V288,Shower,2
+V288,Tub Shower,0
+V288,Dishwasher,1
+V288,Washing Machine,1
+V160,Toilet,2
+V160,Sink,2
+V160,Bathtub,0
+V160,Shower,2
+V160,Tub Shower,2
+V160,Dishwasher,0
+V160,Washing Machine,1
+V248,Toilet,2
+V248,Sink,4
+V248,Bathtub,0
+V248,Shower,1
+V248,Tub Shower,1
+V248,Dishwasher,1
+V248,Washing Machine,1
+V251,Toilet,1
+V251,Sink,1
+V251,Bathtub,0
+V251,Shower,1
+V251,Tub Shower,0
+V251,Dishwasher,0
+V251,Washing Machine,1
+V425,Toilet,1
+V425,Sink,1
+V425,Bathtub,0
+V425,Shower,1
+V425,Tub Shower,0
+V425,Dishwasher,0
+V425,Washing Machine,1
+V363,Toilet,1
+V363,Sink,1
+V363,Bathtub,0
+V363,Shower,1
+V363,Tub Shower,0
+V363,Dishwasher,0
+V363,Washing Machine,1
+V447,Toilet,1
+V447,Sink,2
+V447,Bathtub,0
+V447,Shower,1
+V447,Tub Shower,0
+V447,Dishwasher,0
+V447,Washing Machine,1

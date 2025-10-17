@@ -1,0 +1,281 @@
+smart_meter_id,household_size,household_garden_area,household_pool_volume,household_pool,household_garden,residency_type,number_bathrooms,environmental_attitude,irrigation_system,house_plants,balcony_plants,building_size,appliance,efficiency,ecomode,timer
+T319,140,200,0,0,1,Single Family,3,Medium sensitivity,0,NA,NA,NA,Washing Machine,A+,0,0
+T120,120,70,0,0,1,Single Family,2,Medium sensitivity,0,NA,NA,NA,Washing Machine,A++,0,0
+T204,200,500,0,0,1,House,3,Medium sensitivity,0,NA,NA,200,Washing Machine,A+++,1,0
+T049,NA,NA,0,0,1,Single Family,3,NA,0,NA,NA,162,Washing Machine,NA,1,1
+T092,200,60,0,0,1,Single Family,3,Low sensitivity,0,NA,NA,NA,Washing Machine,A,0,0
+T349,100,0,0,0,0,Single Family,2,High sensitivity,0,NA,NA,NA,Washing Machine,A+++,1,1
+T284,250,686,0,0,1,Single Family,3,High sensitivity,0,NA,NA,NA,Washing Machine,NA,1,1
+T085,130,80,0,0,1,Other,3,Medium sensitivity,0,NA,NA,NA,Washing Machine,A+++,1,0
+T197,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,140,NA,NA,NA,NA
+T330,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,140,NA,NA,NA,NA
+T153,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,140,NA,NA,NA,NA
+T205,134,1000,0,0,1,Single Family,2,Medium sensitivity,0,NA,NA,NA,Washing Machine,A+,1,1
+T039,250,100,0,0,1,Single Family,1,Medium sensitivity,0,NA,NA,250,Dishwasher,A++,0,0
+T000,95,600,0,0,1,Single Family,2,High sensitivity,0,NA,NA,95,Washing Machine,A+,1,0
+T217,180,110,0,0,1,Single Family,2,Low sensitivity,1,NA,NA,180,Washing Machine,A++,1,0
+V111,85,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,1
+V230,NA,0,0,0,0,Single Family,NA,High sensitivity,0,0,0,NA,NA,NA,NA,NA
+V395,100,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,A+,1,0
+V554,160,0,0,0,0,Flat,2,Medium sensitivity,0,1,0,NA,Washing Machine,A++,1,0
+V180,75,0,0,0,0,Flat,1,Medium sensitivity,0,1,0,NA,Washing Machine,A,0,0
+V604,95,0,0,0,0,Other,1,High sensitivity,0,1,1,NA,Washing Machine,A++,1,1
+V066,75,0,0,0,0,Flat,1,Medium sensitivity,0,1,0,NA,Washing Machine,A++,1,1
+V540,100,0,0,0,0,Single Family,2,High sensitivity,0,0,1,NA,Washing Machine,A+++,1,0
+V009,85,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,1
+V560,114,0,0,0,0,Flat,2,Medium sensitivity,0,1,1,NA,NA,NA,NA,NA
+V567,100,NA,NA,1,1,Flat,2,Medium sensitivity,0,1,1,NA,Washing Machine,A+,1,1
+V315,160,0,0,0,0,Flat,3,High sensitivity,0,1,1,NA,Washing Machine,A++,1,1
+V374,60,0,0,0,0,Flat,1,Medium sensitivity,0,0,1,NA,NA,NA,NA,NA
+V128,150,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A+,1,0
+V302,90,0,0,0,0,Flat,2,High sensitivity,0,NA,NA,NA,Washing Machine,A,1,0
+V608,70,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,B,0,0
+V181,NA,0,0,0,0,Single Family,NA,Medium sensitivity,0,0,0,NA,Washing Machine,A+,0,0
+V442,70,0,0,0,0,Flat,1,High sensitivity,0,1,1,NA,Washing Machine,A++,1,0
+V340,80,0,0,0,0,Flat,1,High sensitivity,0,0,0,NA,Washing Machine,A+++,1,1
+V067,70,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,A+++,1,0
+V460,74,0,0,0,0,Flat,1,High sensitivity,0,0,0,NA,Washing Machine,NA,1,0
+V129,70,0,0,0,0,Flat,1,Medium sensitivity,0,1,1,NA,Washing Machine,A++,1,0
+V274,70,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,A,1,0
+V277,300,0,5,1,0,Flat,2,Medium sensitivity,1,1,1,NA,Washing Machine,A++,1,1
+V559,NA,NA,NA,NA,NA,NA,NA,Medium sensitivity,NA,NA,NA,NA,Washing Machine,A+++,1,0
+V557,120,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,1
+V214,90,0,0,0,0,Flat,2,High sensitivity,0,1,1,NA,Washing Machine,A+++,0,1
+V051,69,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,A+++,1,1
+V252,120,0,1000,1,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,A+++,1,0
+V023,160,30,0,0,1,Single Family,3,Medium sensitivity,1,1,0,NA,Washing Machine,A+++,1,0
+V569,110,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,NA,NA,NA,NA
+V215,70,0,0,0,0,Flat,2,Low sensitivity,0,0,0,NA,Washing Machine,A,1,0
+V149,114,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,1
+V346,130,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A,1,0
+V025,250,20,0,0,1,Single Family,3,High sensitivity,0,1,1,NA,Washing Machine,A+++,1,0
+V119,90,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,A+++,1,0
+V439,58,0,0,0,0,Single Family,1,High sensitivity,0,0,0,NA,Washing Machine,A+,1,1
+V352,110,2000,0,0,1,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A+,1,1
+V375,90,0,0,0,0,Flat,2,Medium sensitivity,0,1,1,NA,NA,NA,NA,NA
+V307,90,0,0,0,0,Flat,2,Medium sensitivity,0,NA,NA,NA,NA,NA,NA,NA
+V481,47,0,0,0,0,Flat,1,Medium sensitivity,0,0,1,NA,Washing Machine,A+,1,1
+V071,75,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A+++,1,0
+V106,115,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,1
+V501,150,0,0,0,0,Flat,2,High sensitivity,0,0,1,NA,Washing Machine,A+++,1,1
+V402,65,0,0,0,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,A+,1,1
+V206,74,0,0,0,0,Flat,1,Low sensitivity,0,0,0,NA,Washing Machine,NA,1,1
+V528,112,0,0,0,0,Flat,2,High sensitivity,0,0,1,NA,Washing Machine,A+,1,1
+V166,50,0,0,0,0,Flat,1,Medium sensitivity,0,1,1,NA,Washing Machine,A+,1,0
+V549,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,1
+V016,120,0,300,1,0,Flat,2,High sensitivity,0,1,1,NA,Washing Machine,A++,1,1
+V461,90,0,0,0,0,Flat,2,High sensitivity,0,1,0,NA,Washing Machine,A+++,1,1
+V236,110,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,0
+V123,100,0,0,0,0,Flat,1,High sensitivity,0,0,0,NA,Washing Machine,A++,1,1
+V382,160,15,0,0,1,Single Family,4,Medium sensitivity,1,1,1,NA,Washing Machine,A++,1,1
+V305,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,1,NA,Washing Machine,A++,1,0
+V444,56,0,0,0,0,Flat,1,Medium sensitivity,0,1,0,NA,Washing Machine,A+,0,0
+V011,100,0,NA,1,0,Flat,2,Medium sensitivity,0,1,1,NA,Washing Machine,A++,0,1
+V094,175,0,0,0,0,Other,3,Medium sensitivity,1,1,1,NA,Washing Machine,A+++,1,1
+V498,64,0,0,0,0,Flat,1,Medium sensitivity,0,1,0,NA,Washing Machine,A,1,0
+V593,120,0,0,0,0,Flat,2,Low sensitivity,0,0,0,NA,Washing Machine,A+,1,1
+V441,60,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A+++,1,1
+V278,150,20,0,0,1,Flat,2,High sensitivity,1,1,0,NA,Washing Machine,A++,1,0
+V535,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A+,1,0
+V519,137,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,0,1
+V562,108,0,0,0,0,Flat,2,Medium sensitivity,0,0,1,NA,Washing Machine,A+++,1,1
+V330,150,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,0,1
+V223,120,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A,1,0
+V058,175,0,0,0,0,Flat,2,Medium sensitivity,0,NA,NA,NA,NA,NA,NA,NA
+V322,100,0,0,0,0,Flat,2,Medium sensitivity,0,1,0,NA,Washing Machine,A++,1,1
+V182,90,0,0,0,0,Flat,2,High sensitivity,0,1,1,NA,Washing Machine,A+++,1,1
+V132,40,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,A+,0,0
+V566,NA,NA,NA,NA,NA,NA,NA,Medium sensitivity,NA,NA,NA,NA,NA,NA,NA,NA
+V197,100,0,0,0,0,Flat,2,Medium sensitivity,0,NA,NA,NA,Washing Machine,A+++,1,1
+V310,90,0,0,0,0,Flat,1,Medium sensitivity,0,0,1,NA,Washing Machine,NA,0,0
+V185,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,1,NA,Washing Machine,A+++,1,0
+V502,110,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,1
+V376,89,0,NA,1,0,Flat,2,High sensitivity,0,1,1,NA,Washing Machine,A++,1,1
+V529,107,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A,1,0
+V217,60,0,0,0,0,Flat,1,High sensitivity,0,0,0,NA,Washing Machine,A,1,0
+V270,150,0,0,0,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,A++,1,1
+V096,125,0,NA,1,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,NA,1,0
+V265,100,0,0,0,0,Flat,2,High sensitivity,0,1,0,NA,Washing Machine,A+,1,1
+V463,138,0,0,0,0,Flat,3,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,1
+V114,130,0,0,0,0,Flat,2,High sensitivity,0,1,1,NA,Washing Machine,A++,1,0
+V426,87,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,1
+V300,160,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A+++,1,1
+V462,90,0,0,0,0,Flat,2,Medium sensitivity,0,1,0,NA,NA,NA,NA,NA
+V350,60,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,A+++,1,0
+V064,150,0,60,1,0,Flat,2,Medium sensitivity,0,1,1,NA,Washing Machine,A++,1,0
+V105,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A+,1,0
+V313,73,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,1
+V487,56,0,0,0,0,Flat,1,High sensitivity,0,0,0,NA,Washing Machine,A+,1,0
+V364,170,3,0,0,1,Flat,2,High sensitivity,0,1,1,NA,Washing Machine,A+++,1,1
+V006,136,40,0,0,1,Single Family,2,High sensitivity,1,1,1,NA,Washing Machine,A+++,0,1
+V210,85,0,0,0,0,Flat,2,Medium sensitivity,0,0,1,NA,Washing Machine,A+++,1,1
+V581,130,0,0,0,0,Flat,2,High sensitivity,0,0,1,NA,Washing Machine,A+,1,1
+V347,250,0,0,0,0,Single Family,4,Low sensitivity,0,1,1,NA,Washing Machine,A+,0,0
+V353,74,0,0,0,0,Flat,1,Medium sensitivity,0,0,1,NA,Washing Machine,A++,1,0
+V241,100,0,0,0,0,Flat,2,High sensitivity,0,0,1,NA,Washing Machine,A+++,0,1
+V357,137,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A+++,1,1
+V361,135,0,0,0,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,A+,1,1
+V127,80,0,0,0,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,A+++,1,1
+V482,60,0,0,0,0,Flat,1,Medium sensitivity,0,0,1,NA,NA,NA,NA,NA
+V079,90,0,0,0,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,A,1,1
+V222,85,0,0,0,0,Flat,2,Medium sensitivity,0,NA,NA,NA,Washing Machine,A+,1,1
+V099,150,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,0
+V524,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,1,NA,Washing Machine,A+,1,1
+V454,NA,NA,NA,NA,NA,NA,NA,Medium sensitivity,NA,NA,NA,NA,Washing Machine,A,0,0
+V229,93,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,1
+V285,97,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A+,1,1
+V261,125,0,0,0,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,A++,1,0
+V345,90,0,0,0,0,Single Family,1,Medium sensitivity,0,0,0,NA,Washing Machine,A+++,1,0
+V273,80,0,0,0,0,Flat,2,Medium sensitivity,0,1,0,NA,Washing Machine,A++,1,1
+V388,75,0,0,0,0,Flat,1,Low sensitivity,0,0,0,NA,Washing Machine,A,1,0
+V177,97,0,0,0,0,Flat,1,High sensitivity,0,NA,NA,NA,NA,NA,NA,NA
+V007,1,0,0,0,0,Flat,1,High sensitivity,0,1,1,NA,Washing Machine,A,1,0
+V287,87,0,0,0,0,Flat,1,Medium sensitivity,0,1,1,NA,Washing Machine,A+++,1,1
+V076,120,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,0
+V445,110,0,0,0,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,C,0,0
+V401,100,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A+,1,0
+V103,63,0,0,0,0,Flat,1,Medium sensitivity,0,1,1,NA,Washing Machine,A+,1,0
+V516,138,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,NA,NA,NA,NA
+V050,80,0,0,0,0,Flat,2,High sensitivity,0,1,1,NA,Washing Machine,A,1,0
+V303,110,0,0,0,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,A+++,1,0
+V512,150,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A,0,1
+V600,80,0,0,0,0,Single Family,1,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,0
+V118,60,0,0,0,0,Flat,1,High sensitivity,0,0,1,NA,Washing Machine,A+++,1,0
+V417,75,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,D,1,0
+V086,88,0,0,0,0,Flat,2,Medium sensitivity,0,NA,NA,NA,Washing Machine,A+,1,0
+V521,80,0,0,0,0,Single Family,2,High sensitivity,0,0,0,NA,Washing Machine,A+,1,1
+V543,120,0,0,0,0,Single Family,1,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,0
+V228,68,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,0
+V212,NA,0,0,0,0,Flat,NA,High sensitivity,0,1,1,NA,Washing Machine,A++,1,1
+V369,150,0,0,0,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,A++,1,0
+V378,NA,NA,NA,NA,NA,NA,NA,Low sensitivity,NA,NA,NA,NA,Washing Machine,A,1,0
+V471,200,50,30,1,1,Single Family,4,Medium sensitivity,0,0,0,NA,Washing Machine,A+,0,0
+V453,65,0,0,0,0,Flat,2,Medium sensitivity,0,0,1,NA,Washing Machine,NA,1,1
+V028,95,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,0,0
+V188,90,0,60,1,0,Flat,2,Medium sensitivity,0,1,0,NA,Washing Machine,A+,1,1
+V556,54,0,0,0,0,Flat,1,High sensitivity,0,0,0,NA,Washing Machine,F,0,0
+V158,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,0
+V101,90,0,0,0,0,Flat,1,Medium sensitivity,0,1,1,NA,NA,NA,NA,NA
+V522,80,0,0,0,0,Flat,2,High sensitivity,0,NA,NA,NA,Washing Machine,B,1,1
+V213,200,NA,NA,1,1,Single Family,2,High sensitivity,0,NA,NA,NA,NA,NA,NA,NA
+V565,170,0,0,0,0,Flat,3,High sensitivity,0,1,0,NA,Washing Machine,A++,1,0
+V590,65,0,0,0,0,Flat,1,Medium sensitivity,0,1,1,NA,Washing Machine,A+,1,1
+V046,130,0,0,0,0,Flat,2,Medium sensitivity,0,1,1,NA,Washing Machine,A,1,0
+V386,115,0,0,0,0,Flat,2,Medium sensitivity,0,1,1,NA,Washing Machine,A++,1,0
+V262,89,0,0,0,0,Flat,2,Medium sensitivity,0,0,1,NA,Washing Machine,A++,1,0
+V433,101,0,0,0,0,Flat,2,Medium sensitivity,0,0,1,NA,Washing Machine,A,0,0
+V148,170,0,0,0,0,Flat,3,High sensitivity,0,0,0,NA,Washing Machine,A++,1,0
+V108,100,0,0,0,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,A+,1,0
+V597,90,0,0,0,0,Flat,2,Medium sensitivity,0,1,1,NA,Washing Machine,A+,1,1
+V452,75,0,0,0,0,Flat,1,Low sensitivity,0,0,1,NA,Washing Machine,B,0,0
+V583,110,0,0,0,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,A++,0,0
+V073,NA,NA,NA,NA,NA,NA,NA,Medium sensitivity,NA,NA,NA,NA,Washing Machine,A,1,1
+V339,83,0,0,0,0,Single Family,1,Medium sensitivity,0,0,0,NA,Washing Machine,A+,0,1
+V196,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A+++,1,0
+V201,103,0,0,0,0,Flat,2,Medium sensitivity,0,0,1,NA,Washing Machine,A+++,1,1
+V087,100,0,0,0,0,Flat,2,Medium sensitivity,0,1,1,NA,Washing Machine,A+++,1,1
+V178,70,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A,1,0
+V110,85,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,A+,1,0
+V032,100,0,0,0,0,Flat,1,High sensitivity,0,0,1,NA,Washing Machine,A+++,1,1
+V304,90,0,0,0,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,A+++,1,1
+V121,65,0,0,0,0,Flat,1,High sensitivity,0,0,0,NA,Washing Machine,A+,0,0
+V268,110,0,0,0,0,Flat,2,High sensitivity,0,1,1,NA,Washing Machine,A+,0,0
+V449,76,0,0,0,0,Flat,2,Medium sensitivity,0,0,1,NA,Washing Machine,A+++,1,1
+V387,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,1
+V391,70,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,NA,1,0
+V398,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,1
+V405,90,0,0,0,0,Flat,1,Medium sensitivity,0,1,1,NA,Washing Machine,NA,1,0
+V298,46,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,NA,NA,NA,NA
+V574,100,0,0,0,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,A+++,1,0
+V040,70,0,0,0,0,Flat,1,High sensitivity,0,1,1,NA,Washing Machine,A+,1,0
+V509,100,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A,1,0
+V030,79,0,0,0,0,Flat,1,High sensitivity,0,1,1,NA,Washing Machine,A,1,1
+V476,75,0,0,0,0,Flat,2,High sensitivity,0,1,1,NA,Washing Machine,B,1,1
+V116,160,0,0,0,0,Flat,2,Low sensitivity,0,0,0,NA,Washing Machine,A+++,1,1
+V208,160,0,0,0,0,Flat,2,High sensitivity,0,1,1,NA,Washing Machine,A++,1,1
+V507,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,NA,NA,NA,NA
+V039,100,0,0,0,0,Flat,2,Medium sensitivity,0,0,1,NA,NA,NA,NA,NA
+V403,50,0,0,0,0,Flat,1,High sensitivity,0,1,1,NA,Washing Machine,A++,1,1
+V250,90,0,0,0,0,Flat,2,Medium sensitivity,0,1,0,NA,Washing Machine,A+++,1,1
+V037,90,0,0,0,0,Flat,1,Medium sensitivity,0,1,1,NA,Washing Machine,A+,1,0
+V588,90,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,NA,0,0
+V473,75,0,0,0,0,Flat,1,High sensitivity,0,1,0,NA,Washing Machine,A+,1,1
+V154,150,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,A+,1,1
+V598,90,0,0,0,0,Flat,2,Medium sensitivity,0,1,0,NA,Washing Machine,A+,1,0
+V327,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,0
+V576,100,0,0,0,0,Flat,2,Medium sensitivity,0,0,1,NA,Washing Machine,A+++,1,1
+V054,65,0,0,0,0,Single Family,1,Medium sensitivity,0,NA,NA,NA,Washing Machine,A++,0,0
+V233,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A+,0,1
+V115,75,0,0,0,0,Flat,1,Medium sensitivity,0,1,0,NA,Washing Machine,A+++,1,0
+V429,100,0,0,0,0,Flat,2,High sensitivity,0,NA,NA,NA,Washing Machine,A+++,1,1
+V107,70,0,0,0,0,Flat,1,Low sensitivity,0,0,0,NA,Washing Machine,A++,1,1
+V097,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A+++,1,0
+V377,NA,NA,NA,NA,NA,NA,NA,Medium sensitivity,NA,NA,NA,NA,Washing Machine,A+,1,0
+V135,132,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,C,1,1
+V142,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A+++,1,0
+V595,80,0,0,0,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,A+++,1,0
+V555,80,0,0,0,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,A++,1,0
+V523,154,0,0,0,0,Flat,2,High sensitivity,0,0,1,NA,Washing Machine,B,1,0
+V062,110,0,0,0,0,Flat,2,High sensitivity,0,1,1,NA,NA,NA,NA,NA
+V564,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,0
+V256,109,0,0,0,0,Flat,2,Low sensitivity,0,0,1,NA,Washing Machine,A+,1,1
+V026,125,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,0
+V045,110,100,170,1,1,Single Family,2,High sensitivity,0,0,1,NA,Washing Machine,A+++,1,1
+V314,39,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,A,0,0
+V074,53,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,A++,0,0
+V525,90,20,0,0,1,Flat,2,Medium sensitivity,0,0,1,NA,Washing Machine,A+,1,0
+V335,78,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,A,0,1
+V456,150,0,0,0,0,Flat,3,Medium sensitivity,0,0,0,NA,Washing Machine,A+++,1,0
+V081,100,0,0,0,0,Single Family,2,High sensitivity,0,1,0,NA,Washing Machine,NA,0,0
+V368,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,1,NA,Washing Machine,B,0,0
+V082,90,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,A+,0,0
+V172,65,0,0,0,0,Flat,1,Medium sensitivity,0,1,1,NA,Washing Machine,A++,1,0
+V290,75,0,0,0,0,Flat,1,High sensitivity,0,0,0,NA,NA,NA,NA,NA
+V282,200,0,0,0,0,Flat,1,Medium sensitivity,0,NA,NA,NA,Washing Machine,A++,1,0
+V411,90,0,0,0,0,Flat,2,High sensitivity,0,1,1,NA,Washing Machine,A+++,1,0
+V146,70,0,0,0,0,Flat,1,High sensitivity,0,1,0,NA,Washing Machine,A,1,1
+V165,100,0,0,0,0,Flat,2,High sensitivity,0,1,1,NA,Washing Machine,A+++,1,0
+V505,60,0,0,0,0,Flat,1,High sensitivity,0,0,1,NA,Washing Machine,A++,0,0
+V043,110,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,0
+V457,80,0,0,0,0,Flat,1,Medium sensitivity,0,NA,NA,NA,Washing Machine,A+++,1,1
+V506,69,0,0,0,0,Single Family,1,High sensitivity,0,1,1,NA,Washing Machine,NA,1,0
+V192,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,1
+V198,50,0,0,0,0,Flat,1,High sensitivity,0,0,0,NA,Washing Machine,A,1,0
+V027,140,0,0,0,0,Other,2,Medium sensitivity,1,0,1,NA,Washing Machine,A+++,1,1
+V568,99,0,0,0,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,E,0,0
+V504,100,0,0,0,0,Flat,1,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,0
+V354,70,0,0,0,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,A,1,0
+V508,71,0,0,0,0,Flat,1,Medium sensitivity,0,1,0,NA,Washing Machine,A++,1,1
+V091,112,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A+++,1,1
+V317,86,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A+++,1,1
+V080,75,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A+++,1,1
+V005,100,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,0
+V418,70,0,0,0,0,Flat,1,Medium sensitivity,0,0,1,NA,Washing Machine,A+,1,0
+V047,90,0,0,0,0,Flat,2,Medium sensitivity,0,1,1,NA,Washing Machine,A+++,1,1
+V078,80,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,NA,NA,NA,NA
+V349,92,0,0,0,0,Flat,2,High sensitivity,0,1,0,NA,Washing Machine,A++,1,0
+V479,110,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,0
+V293,NA,NA,NA,NA,NA,NA,NA,Medium sensitivity,NA,NA,NA,NA,Washing Machine,A++,1,0
+V393,90,0,0,0,0,Flat,2,Medium sensitivity,0,0,1,NA,Washing Machine,A,1,1
+V061,70,0,0,0,0,NA,1,NA,0,NA,NA,NA,Washing Machine,A,1,0
+V547,180,0,0,0,0,Flat,2,High sensitivity,0,0,0,NA,Washing Machine,A+++,1,1
+V280,75,0,0,0,0,Flat,2,High sensitivity,0,1,1,NA,Washing Machine,A+,1,0
+V173,NA,0,0,0,0,Flat,NA,NA,0,1,1,NA,NA,NA,NA,NA
+V164,83,0,0,0,0,Flat,2,Medium sensitivity,0,1,0,NA,NA,NA,NA,NA
+V120,140,0,0,0,0,Flat,3,High sensitivity,0,1,1,NA,Washing Machine,NA,0,0
+V474,100,0,0,0,0,Flat,1,Medium sensitivity,0,NA,NA,NA,Washing Machine,A+++,1,0
+V049,90,0,0,0,0,Flat,1,High sensitivity,0,1,1,NA,NA,NA,NA,NA
+V355,11,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A++,1,1
+V000,65,0,0,0,0,Flat,1,High sensitivity,0,0,0,NA,Washing Machine,A,1,0
+V579,90,0,0,0,0,Flat,1,High sensitivity,0,0,0,NA,Washing Machine,A+++,1,0
+V264,69,0,0,0,0,Single Family,1,High sensitivity,0,0,1,NA,Washing Machine,A+,1,0
+V558,100,0,0,0,0,Flat,2,Medium sensitivity,0,0,1,NA,Washing Machine,A+,1,0
+V288,140,0,0,0,0,Flat,2,Medium sensitivity,0,0,0,NA,Washing Machine,A,1,0
+V160,170,0,0,0,0,Flat,2,High sensitivity,0,1,0,NA,Washing Machine,A++,1,1
+V248,140,0,0,0,0,Flat,2,High sensitivity,0,1,1,NA,Washing Machine,A+,1,0
+V251,60,0,0,0,0,Single Family,1,High sensitivity,0,1,1,NA,Washing Machine,D,1,0
+V425,40,0,0,0,0,Flat,1,High sensitivity,0,1,0,NA,Washing Machine,A+,1,1
+V363,80,0,0,0,0,Flat,1,Low sensitivity,0,0,0,NA,Washing Machine,NA,0,0
+V447,67,0,0,0,0,Flat,1,Medium sensitivity,0,1,1,NA,Washing Machine,A+++,0,0
+V582,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Washing Machine,A+++,1,1
+V041,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Washing Machine,A++,0,0
